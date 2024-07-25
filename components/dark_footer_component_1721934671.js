@@ -19,9 +19,9 @@ Vue.component("dark_footer_component_1721934671", {
                     <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
                         <div class="mb-4">
                             <!-- Logo -->
-                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="FOOTER_COMPONENT_1_FOOTER_TEXT_1"> <img src="./images/logo.svg" width="38" height="38" alt="Stellar"></a>
+                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="View Ethereum transactions"> <img src="./images/logo.svg" width="38" height="38" alt="Stellar"></a>
                         </div>
-                        <div id="footer-copyright" class="text-sm text-slate-400">&copy; FOOTER_COMPONENT_1_FOOTER_TEXT_1 <span class="text-slate-500">-</span> All rights reserved.</div>
+                        <div id="footer-copyright" class="text-sm text-slate-400">&copy; View Ethereum transactions <span class="text-slate-500">-</span> All rights reserved.</div>
                     </div>
                     <!-- Social links -->
                     <ul id="footer-social-links" class="flex">
@@ -34,34 +34,34 @@ Vue.component("dark_footer_component_1721934671", {
  
             <!-- 2nd block -->
             <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400">FOOTER_COMPONENT_1_TITLE_TEXT</h6>
+                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400">About</h6>
                 <ul id="footer-block-2-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-2-link-1 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-2-link-2 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-2-link-3 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-2-link-4 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-2-link-1 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">Our app provides a user-friendly interface to explore and analyze Ethereum transactions.</a></li>
+                    <li><a id="footer-block-2-link-2 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">Get insights into the flow of Ether and track the activity of specific addresses.</a></li>
+                    <li><a id="footer-block-2-link-3 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">Stay up-to-date with the latest transactions happening on the Ethereum blockchain.</a></li>
+                    <li><a id="footer-block-2-link-4 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">Powered by reliable Ethereum node providers for accurate and timely data.</a></li>
                 </ul>
             </div>
  
             <!-- 3rd block -->
             <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">FOOTER_COMPONENT_2_TITLE_TEXT</h6>
+                <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">Features</h6>
                 <ul id="footer-block-3-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-3-link-1" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-3-link-2" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-3-link-3" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-3-link-4" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-3-link-1" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">Transaction search and filtering</a></li>
+                    <li><a id="footer-block-3-link-2" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">Address monitoring and alerts</a></li>
+                    <li><a id="footer-block-3-link-3" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">Data visualization and charts</a></li>
+                    <li><a id="footer-block-3-link-4" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">API access for developers</a></li>
                 </ul>
             </div>
  
             <!-- 4th block -->
             <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">FOOTER_COMPONENT_3_TITLE_TEXT</h6>
+                <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">Resources</h6>
                 <ul id="footer-block-4-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-4-link-1" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-4-link-2" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-4-link-3" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-4-link-4" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-4-link-1" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">Blog and tutorials</a></li>
+                    <li><a id="footer-block-4-link-2" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">API documentation</a></li>
+                    <li><a id="footer-block-4-link-3" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">Support and FAQs</a></li>
+                    <li><a id="footer-block-4-link-4" class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200" href="#0">Contact us</a></li>
                 </ul>
             </div>
         </div>
